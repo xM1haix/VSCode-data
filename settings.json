@@ -1,0 +1,111 @@
+{
+    "3dviewer.background": "#000000",
+    "better-comments.tags": [
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#FF0000",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "!",
+            "underline": false
+        },
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#0000FF",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "?",
+            "underline": false
+        },
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#474747",
+            "italic": false,
+            "strikethrough": true,
+            "tag": "//",
+            "underline": false
+        },
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#FF8C00",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "todo",
+            "underline": false
+        },
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#00FF00",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "*",
+            "underline": false
+        },
+        {
+            "backgroundColor": "transparent",
+            "bold": false,
+            "color": "#FFFFFF",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "-",
+            "underline": false
+        }
+    ],
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.filePath": "off",
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "dart.flutterSdkPath": "C:\\Flutter\\flutter",
+    "dart.flutterSdkPaths": [
+        "C:\\Flutter\\bin"
+    ],
+    "dart.sdkPaths": [
+        "C:\\Flutter\\bin"
+    ],
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "editor.codeActionsOnSave": {
+        "source": "always",
+        "source.fixAll": "always",
+        "source.organizeImports": "always",
+        "source.sortMembers": "always"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.hover.delay": 1000,
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.renderWhitespace": "none",
+    "editor.selectionHighlight": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 8,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.wordBasedSuggestions": "allDocuments",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 1,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": false,
+    "files.autoSave": "onWindowChange",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "search.followSymlinks": false,
+    "security.workspace.trust.banner": "always",
+    "security.workspace.trust.startupPrompt": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.restoreFullscreen": true,
+    "window.zoomLevel": 1,
+    "window.zoomPerWindow": false,
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.trustedDomains.promptInTrustedWorkspace": true
+}
