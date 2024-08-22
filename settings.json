@@ -129,14 +129,6 @@
     "files.autoSave": "onWindowChange",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
-    "remote.SSH.remotePlatform": {
-        "154.49.245.240": "linux",
-        "ai": "linux",
-        "proxy_server": "linux",
-        "smtp": "linux",
-        "storage.piracy.guide": "linux",
-        "xm1haix.piracy.guide": "linux"
-    },
     "search.followSymlinks": false,
     "security.workspace.trust.banner": "always",
     "security.workspace.trust.startupPrompt": "always",
