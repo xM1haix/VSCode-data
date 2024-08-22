@@ -1,5 +1,13 @@
 {
     "3dviewer.background": "#000000",
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.detectIndentation": false,
+        "editor.inlayHints.enabled": "on",
+        "editor.insertSpaces": true,
+        "editor.suggest.insertMode": "insert",
+        "editor.tabSize": 2
+    },
     "better-comments.tags": [
         {
             "backgroundColor": "transparent",
@@ -58,16 +66,43 @@
     ],
     "breadcrumbs.enabled": false,
     "breadcrumbs.filePath": "off",
-    "dart.debugExternalPackageLibraries": false,
-    "dart.debugSdkLibraries": false,
+    "dart.devToolsBrowser": "default",
+    "dart.devToolsLocation": {
+        "cpu-profiler": "external",
+        "default": "beside",
+        "inspector": "external",
+        "logging": "external",
+        "memory": "external",
+        "network": "external",
+        "performance": "external"
+    },
+    "dart.documentation": "full",
+    "dart.flutterGenerateLocalizationsOnSave": "allIfDirty",
+    "dart.flutterGutterIcons": true,
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "dart.flutterOutline": true,
+    "dart.flutterRememberSelectedDevice": true,
+    "dart.flutterScreenshotPath": null,
     "dart.flutterSdkPath": "C:\\Flutter\\flutter",
-    "dart.flutterSdkPaths": [
-        "C:\\Flutter\\bin"
-    ],
-    "dart.sdkPaths": [
-        "C:\\Flutter\\bin"
-    ],
-    "debug.console.acceptSuggestionOnEnter": "on",
+    "dart.flutterSelectDeviceWhenConnected": true,
+    "dart.flutterShowEmulators": "always",
+    "dart.flutterShowWebServerDevice": "always",
+    "dart.flutterWebRenderer": "auto",
+    "dart.hotReloadOnSave": "allIfDirty",
+    "dart.hotReloadProgress": "statusBar",
+    "dart.lineLength": 80,
+    "dart.lspSnippetTextEdits": true,
+    "dart.maxCompletionItems": null,
+    "dart.maxLogLineLength": 10000,
+    "dart.normalizeFileCasing": true,
+    "dart.onlyAnalyzeProjectsWithOpenFiles": true,
+    "dart.previewCommitCharacters": false,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.projectSearchDepth": 5,
+    "dart.renameFilesWithClasses": "always",
+    "dart.sdkPath": "C:\\Flutter\\bin",
     "editor.codeActionsOnSave": {
         "source": "always",
         "source.fixAll": "always",
@@ -76,7 +111,7 @@
     },
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.hover.delay": 1000,
+    "editor.hover.delay": 0,
     "editor.minimap.enabled": false,
     "editor.quickSuggestionsDelay": 0,
     "editor.renderWhitespace": "none",
@@ -94,6 +129,14 @@
     "files.autoSave": "onWindowChange",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
+    "remote.SSH.remotePlatform": {
+        "154.49.245.240": "linux",
+        "ai": "linux",
+        "proxy_server": "linux",
+        "smtp": "linux",
+        "storage.piracy.guide": "linux",
+        "xm1haix.piracy.guide": "linux"
+    },
     "search.followSymlinks": false,
     "security.workspace.trust.banner": "always",
     "security.workspace.trust.startupPrompt": "always",
